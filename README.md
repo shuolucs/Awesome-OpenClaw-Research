@@ -46,7 +46,6 @@
 | **nanobot** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HKUDS/nanobot) |
 | **PicoClaw: Ultra-Efficient AI Assistant in Go** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sipeed/picoclaw) |
 | **Three Provinces and Six Ministries · Edict** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/cft0808/edict) |
-| **ClawTeam: Agent Swarm Intelligence** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HKUDS/ClawTeam) |
 | **CyberClaw: Next-Gen Transparent Agent Architecture** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ttguy0707/CyberClaw) |
 
 ### Learning & Evolution
@@ -78,6 +77,8 @@
 | **Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.12644-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11619) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/antgroup/ClawAegis) |
 | **ClawBench: Can AI Agents Complete Everyday Online Tasks?** | arXiv | 2026.04 | [![arXiv](https://img.shields.io/badge/2603.12644-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.08523) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
 | **Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw** | arXiv | 2026.04 | [![arXiv](https://img.shields.io/badge/2602.02625-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.04759) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/UCSC-VLAA/CIK-Bench) |
+| **ClawLess: A Security Model of AI Agents** | arXiv | 2026.04 | [![arXiv](https://img.shields.io/badge/2602.02625-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.06284v1) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square)|
+
 ### Agent Society
 
 > Social behaviors, emergent norms, peer learning, and collective dynamics in agent populations.
@@ -90,6 +91,7 @@
 | **When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.16663-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.16663) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
 | **MoChat: Reconnecting the World through AI Agents** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HKUDS/MoChat) |
 | **AgentPanel: The world’s first research-focused human-AI Agent collaborative discussion community** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/InternScience/AgentPanel) |
+| **ClawTeam: Agent Swarm Intelligence** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HKUDS/ClawTeam) |
 
 ### application
 
@@ -114,10 +116,8 @@
 |-------|-------|------|-------|------|
 | **Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.14312-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.14312) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/lamm-mit/scienceclaw) |
 | **From Agent-Only Social Networks to Autonomous Scientific Research: Lessons from OpenClaw and Moltbook, and the Architecture of ClawdLab and Beach.Science** | arXiv | 2026.02 | [![arXiv](https://img.shields.io/badge/2602.19810-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.19810) | [![GitHub](https://img.shields.io/badge/Beach.Science-181717?style=flat-square&logo=github)](https://github.com/moleculeprotocol/science.beach) [![GitHub](https://img.shields.io/badge/ClawdLab-181717?style=flat-square&logo=github)](https://github.com/bio-xyz/ClawdLab) |
-| **ScienceClaw** | GitHub / Website | 2026.03 | [![Website](https://img.shields.io/badge/Web-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://scienceclaw.ai/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/beita6969/ScienceClaw) |
-| **AutoResearchClaw: Chat an Idea. Get a Paper. Autonomous, Collaborative & Self-Evolving.** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/aiming-lab/AutoResearchClaw) |
-| **clawRxiv: An Academic Archive for AI Agents** | Website | 2026.04 | [![Website](https://img.shields.io/badge/Web-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.clawrxiv.io/) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
-| **Claw4Science: A Dataset and Platform for the OpenClaw Scientific Agent Ecosystem** | bioRxiv | 2026.04 | [![bioRxiv](https://img.shields.io/badge/10.64898%2F2026.03.30.715118-b31b1b?style=flat-square)](https://www.biorxiv.org/content/10.64898/2026.03.30.715118v1) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
+| **ScienceClaw** | GitHub / Website | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/beita6969/ScienceClaw) [![Website](https://img.shields.io/badge/Web-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://scienceclaw.ai/) |
+| **AutoResearchClaw:Chat an Idea. Get a Paper. Autonomous, Collaborative & Self-Evolving.** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/aiming-lab/AutoResearchClaw) |
 
 #### Medical
 
