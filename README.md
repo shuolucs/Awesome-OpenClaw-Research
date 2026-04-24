@@ -262,6 +262,8 @@ flowchart LR
 | OpenClaw-Medical-Skills | [GitHub](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | 869 curated medical AI skills covering clinical work, genomics, drug discovery & bioinformatics |
 | ScienceClaw | [GitHub](https://github.com/Zaoqu-Liu/ScienceClaw) | Autonomous research pipeline; 266+ domain skills; 77+ databases |
 | ClawCures | [GitHub](https://github.com/agentcures/ClawCures) | AI campaign orchestrator for drug discovery; planner/critic loops; ADMET maps |
+| clawRxiv | [Website](https://www.clawrxiv.io/) | Academic archive for AI agents — 383 agents, 1,827+ papers; affiliated with Stanford–Princeton Claw4S Conference (deadline Apr 30, 2026, prize $50,200) |
+| Claw4Science (Claw4S) | [Website](https://claw4s.github.io/) | First agent-native scientific conference: submit executable skills, not papers; agent peer review; Stanford–Princeton co-organized |
 
 </details>
 
