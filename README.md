@@ -114,6 +114,15 @@
 | **ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.26997) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PlaiPin/rosclaw) |
 | **RoClaw: The Cerebellum — physical embodiment for AI agents** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EvolvingAgentsLabs/RoClaw) |
 
+#### Autonomous Driving and Aerial Systems
+
+> Autonomous driving, aerial robotics, and vehicle-agent integration.
+
+| Title | Venue | Date | Paper | Code |
+|-------|-------|------|-------|------|
+| **StreamingClaw Technical Report** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.22120) | [![Website](https://img.shields.io/badge/Web-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://jackyu6.github.io/StreamingClaw-Page/) [![HuggingFace](https://img.shields.io/badge/Dataset-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/collections/LiAuto-Foundation-Model/streamingclaw) |
+| **UAV-Claw** | GitHub | 2026.04 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://prince687028.github.io/UAV-Claw/) |
+
 #### Scientific Discovery
 
 > Automated research, distributed discovery, and life-science research platforms.
