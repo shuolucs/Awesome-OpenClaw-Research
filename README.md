@@ -15,11 +15,16 @@
 ## Table of Contents
 
 - [Papers](#-papers) — **Core of this repo**
-  - [Infrastructure & Systems](#infrastructure--systems)
-  - [Learning & Evolution](#learning--evolution)
-  - [Safety & Security](#safety--security)
+  - [Learning and Evolving](#learning-and-evolving)
+  - [Safety and Security](#safety-and-security)
   - [Agent Society](#agent-society)
-  - [application](#application)
+  - [Infrastructure and Systems](#infrastructure-and-systems)
+  - [Applications](#applications)
+    - [Embodied Agents](#embodied-agents)
+    - [Autonomous Driving and Aerial Systems](#autonomous-driving-and-aerial-systems)
+    - [Scientific Discovery](#scientific-discovery)
+    - [Healthcare](#healthcare)
+    - [Beyond Core Domains](#beyond-core-domains)
 - [Architecture](#-architecture)
 - [Ecosystem Timeline](#-ecosystem-timeline)
 - [Other Resources](#-other-resources) — SDKs, tools, community, related repos
@@ -31,23 +36,7 @@
 
 > 25+ papers published in Feb–Mar 2026 alone. Each entry includes paper link, code (if available), and key highlights.
 
-### Infrastructure & Systems
-
-> Frameworks, OS paradigms, benchmarks, and protocol evaluation.
-
-| Title | Venue | Date | Paper | Code |
-|-------|-------|------|-------|------|
-| **OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild (Survey)** | Preprints.org | 2026.03 | [![Preprints](https://img.shields.io/badge/202603.1060-b31b1b?style=flat-square)](https://www.preprints.org/manuscript/202603.1060) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
-| **AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.08938-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08938) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
-| **ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents** | arXiv | 2026.04 | [![arXiv](https://img.shields.io/badge/2603.13428-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.11784) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/zju-real/ClawGUI)|
-| **MCP-Atlas: A Large-Scale Benchmark for Tool-Use Competency with Real MCP Servers** | arXiv | 2026.01 | [![arXiv](https://img.shields.io/badge/2602.00933-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.00933) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
-| **NanoClaw** | GitHub | 2026.01 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/qwibitai/nanoclaw) |
-| **nanobot** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HKUDS/nanobot) |
-| **PicoClaw: Ultra-Efficient AI Assistant in Go** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sipeed/picoclaw) |
-| **Three Provinces and Six Ministries · Edict** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/cft0808/edict) |
-| **CyberClaw: Next-Gen Transparent Agent Architecture** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ttguy0707/CyberClaw) |
-
-### Learning & Evolution
+### Learning and Evolving
 
 > Reinforcement learning, meta-learning, and self-improvement of agents.
 
@@ -65,7 +54,7 @@
 | **StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning** | arXiv | 2026.04 | [![arXiv](https://img.shields.io/badge/2603.10165-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.18401) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AgentR1/Agent-R1) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AgentR1/Claw-R1)|
 | **EvoClaw: Evaluating AI Agents on Continuous Software Evolution** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.13428-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.13428) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Hydrapse/EvoClaw) [![HuggingFace](https://img.shields.io/badge/Dataset-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/hyd2apse/EvoClaw-data) |
 
-### Safety & Security
+### Safety and Security
 
 > Attack benchmarks, defense frameworks, supply-chain security, and runtime protection.
 
@@ -99,9 +88,25 @@
 | **AgentPanel: The world’s first research-focused human-AI Agent collaborative discussion community** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/InternScience/AgentPanel) |
 | **ClawTeam: Agent Swarm Intelligence** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HKUDS/ClawTeam) |
 
-### application
+### Infrastructure and Systems
 
-> Vertical applications, organized into embodied, scientific discovery, medical, and other directions.
+> Frameworks, OS paradigms, benchmarks, and protocol evaluation.
+
+| Title | Venue | Date | Paper | Code |
+|-------|-------|------|-------|------|
+| **OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild (Survey)** | Preprints.org | 2026.03 | [![Preprints](https://img.shields.io/badge/202603.1060-b31b1b?style=flat-square)](https://www.preprints.org/manuscript/202603.1060) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
+| **AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.08938-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08938) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
+| **ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents** | arXiv | 2026.04 | [![arXiv](https://img.shields.io/badge/2603.13428-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.11784) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/zju-real/ClawGUI)|
+| **MCP-Atlas: A Large-Scale Benchmark for Tool-Use Competency with Real MCP Servers** | arXiv | 2026.01 | [![arXiv](https://img.shields.io/badge/2602.00933-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.00933) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
+| **NanoClaw** | GitHub | 2026.01 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/qwibitai/nanoclaw) |
+| **nanobot** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HKUDS/nanobot) |
+| **PicoClaw: Ultra-Efficient AI Assistant in Go** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sipeed/picoclaw) |
+| **Three Provinces and Six Ministries · Edict** | GitHub | 2026.02 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/cft0808/edict) |
+| **CyberClaw: Next-Gen Transparent Agent Architecture** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ttguy0707/CyberClaw) |
+
+### Applications
+
+> Vertical applications, organized into embodied, autonomous driving, scientific discovery, healthcare, and beyond.
 
 #### Embodied Agents
 
@@ -114,6 +119,13 @@
 | **ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.26997) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PlaiPin/rosclaw) |
 | **RoClaw: The Cerebellum — physical embodiment for AI agents** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EvolvingAgentsLabs/RoClaw) |
 
+#### Autonomous Driving and Aerial Systems
+
+> Autonomous driving, aerial robotics, and vehicle-agent integration.
+
+| Title | Venue | Date | Paper | Code |
+|-------|-------|------|-------|------|
+
 #### Scientific Discovery
 
 > Automated research, distributed discovery, and life-science research platforms.
@@ -125,7 +137,7 @@
 | **ScienceClaw** | GitHub / Website | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/beita6969/ScienceClaw) [![Website](https://img.shields.io/badge/Web-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://scienceclaw.ai/) |
 | **AutoResearchClaw:Chat an Idea. Get a Paper. Autonomous, Collaborative & Self-Evolving.** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/aiming-lab/AutoResearchClaw) |
 
-#### Medical
+#### Healthcare
 
 > Clinical workflows, medical imaging, digital twins, and medical skill ecosystems.
 
@@ -136,7 +148,7 @@
 | **OpenClaw-Medical-Skills** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
 | **When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.11721-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11721) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
 
-#### Other
+#### Beyond Core Domains
 
 > Other application directions such as education, knowledge work, and math learning.
 
