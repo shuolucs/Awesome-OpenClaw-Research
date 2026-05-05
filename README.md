@@ -7,6 +7,7 @@
 <p align="center">
   <a href="#-papers"><img src="https://img.shields.io/badge/Papers-40%2B-blue?style=flat-square" alt="Papers"></a>
   <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/OpenClaw-330k%2B%20Stars-yellow?style=flat-square" alt="Stars"></a>
+  <a href="https://ykc1.github.io/OpenClaw_Survey_Web/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-green?style=flat-square"></a>
   <a href="#-contributing"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome"></a>
 </p>
 
