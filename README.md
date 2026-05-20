@@ -11,13 +11,6 @@
   <a href="#-contributing"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome"></a>
 </p>
 
-<p align="center">
-  <a href="#open-policy-learning-and-evolving"><img src="https://img.shields.io/badge/Open%20Policy-Learning%20%26%20Evolving-4E79A7?style=flat-square" alt="Open Policy"></a>
-  <a href="#open-environment-safety-and-security"><img src="https://img.shields.io/badge/Open%20Environment-Safety%20%26%20Security-E15759?style=flat-square" alt="Open Environment"></a>
-  <a href="#open-population-claw-society"><img src="https://img.shields.io/badge/Open%20Population-Claw%20Society-59A14F?style=flat-square" alt="Open Population"></a>
-  <a href="#open-substrate-infrastructure-and-systems"><img src="https://img.shields.io/badge/Open%20Substrate-Infrastructure%20%26%20Systems-F28E2B?style=flat-square" alt="Open Substrate"></a>
-  <a href="#applications"><img src="https://img.shields.io/badge/Applications-Domain%20Claws-9C755F?style=flat-square" alt="Applications"></a>
-</p>
 
 ---
 
