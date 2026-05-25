@@ -20,7 +20,6 @@
   <a href="#-contributing"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome"></a>
 </p>
 
-
 ---
 
 ## Table of Contents
