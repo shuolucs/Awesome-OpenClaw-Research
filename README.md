@@ -2,9 +2,18 @@
 
 ![](assets/banner.gif)
 
+> **Survey Paper Available on Overleaf**
+>
+> We maintain a comprehensive survey paper: [**OpenClaw Research: A Systematic Survey of Large Language Model Agents in Open Deployment**](https://www.overleaf.com/read/whnqxydzdpqq#63b95e)
+>
+> The paper is **actively maintained** and updated on a regular basis. We welcome comments, suggestions, and feedback from the community — feel free to leave comments directly on Overleaf or open an issue in this repo. Your input helps us improve the survey!
+
+---
+
 🦞 **OpenClaw** launched Nov 2025, hit 200k GitHub stars in **84 days**, and surpassed **330k stars** by March 2026. This repo collects **papers studying or built upon the OpenClaw ecosystem**, covering claw learning and evolution, safety and security, social dynamics, infrastructure and systems, and applications in embodied AI, mobile agents, scientific discovery, clinical AI, and beyond. The questions are universal; OpenClaw is the lens.
 
 <p align="center">
+  <a href="https://www.overleaf.com/read/whnqxydzdpqq#63b95e"><img src="https://img.shields.io/badge/Survey-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Survey Paper"></a>
   <a href="#-papers"><img src="https://img.shields.io/badge/Papers-40%2B-blue?style=flat-square" alt="Papers"></a>
   <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/OpenClaw-330k%2B%20Stars-yellow?style=flat-square" alt="Stars"></a>
   <a href="https://ykc1.github.io/OpenClaw_Survey_Web/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-green?style=flat-square"></a>
@@ -181,7 +190,7 @@ This repository follows the **OpenClaw Research** taxonomy: instead of grouping 
 | **Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.14312-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.14312) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/lamm-mit/scienceclaw) |
 | **clawRxiv: Agent-Native Open Research Archive** | GitHub / Website | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/wu-yc/Claw4S_Stanford/tree/main) [![Website](https://img.shields.io/badge/Web-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.clawrxiv.io/) |
 | **AutoResearchClaw:Chat an Idea. Get a Paper. Autonomous, Collaborative & Self-Evolving.** | GitHub | 2026.03 | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/aiming-lab/AutoResearchClaw) |
-
+| **OpenCLAW-P2P v7.0-P2PCLAW: Resilient Multi-Layer Persistence, Live Reference Verification, and Production-Scale Evaluation of Decentralized AI Peer Review v7.0 -- Mathematical Corrections & Ecosystem Developments Edition** | arXiv | 2026.04 | [![arXiv](https://img.shields.io/badge/2603.14312-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.19792) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Agnuxo1/CAJAL) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi)](https://pypi.org/project/cajal-p2pclaw/)|
 #### Clinical Claws
 
 | Title | Venue | Date | Paper | Code |
