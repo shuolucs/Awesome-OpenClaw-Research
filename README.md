@@ -13,7 +13,6 @@
 🦞 **OpenClaw** launched Nov 2025, hit 200k GitHub stars in **84 days**, and surpassed **330k stars** by March 2026. This repo collects **papers studying or built upon the OpenClaw ecosystem**, covering claw learning and evolution, safety and security, social dynamics, infrastructure and systems, and applications in embodied AI, mobile agents, scientific discovery, clinical AI, and beyond. The questions are universal; OpenClaw is the lens.
 
 <p align="center">
-  <a href="https://www.overleaf.com/read/whnqxydzdpqq#63b95e"><img src="https://img.shields.io/badge/Survey-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Survey Paper"></a>
   <a href="#-papers"><img src="https://img.shields.io/badge/Papers-40%2B-blue?style=flat-square" alt="Papers"></a>
   <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/OpenClaw-330k%2B%20Stars-yellow?style=flat-square" alt="Stars"></a>
   <a href="https://ykc1.github.io/OpenClaw_Survey_Web/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-green?style=flat-square"></a>
