@@ -4,7 +4,7 @@
 
 > **Survey Paper Available on Overleaf**
 >
-> We maintain a comprehensive survey paper: [**OpenClaw Research: A Systematic Survey of Large Language Model Agents in Open Deployment**](https://www.overleaf.com/read/whnqxydzdpqq#63b95e)
+> We maintain a comprehensive survey paper: [**OpenClaw Research: A Systematic Survey of Large Language Model Agents in Open Deployment**](https://openreview.net/forum?id=5PMzjzEy6J)
 >
 > The paper is **actively maintained** and updated on a regular basis. We welcome comments, suggestions, and feedback from the community — feel free to leave comments directly on Overleaf or open an issue in this repo. Your input helps us improve the survey!
 
