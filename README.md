@@ -294,6 +294,7 @@ This repository follows the **OpenClaw Research** taxonomy: instead of grouping 
 | Repository | Stars | Description |
 |------------|-------|-------------|
 | [SamurAIGPT/awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw) | 823 | Comprehensive list of OpenClaw resources, tools, skills, tutorials & articles |
+| [Continuum-AI-Corp/OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) | 25 | OpenClaw's own system prompt recorded off the wire (21,630 characters, 38 tool declarations, 2026-09-17), beside 42 other products; every file marked captured or reported |
 | [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 830+ | 177 production-ready AI agent templates across 24 categories |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | — | Community curated skills collection |
 | [community/openclaw-recipes](https://github.com/community/openclaw-recipes) | — | Common automation recipes |
