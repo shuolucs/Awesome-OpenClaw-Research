@@ -260,6 +260,7 @@ This repository follows the **OpenClaw Research** taxonomy: instead of grouping 
 | SlowMist Security Guide | [GitHub](https://github.com/slowmist/openclaw-security-practice-guide) |
 | CVE-2026-25253 | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-25253) |
 | Security Guide | [bitdoze.com](https://www.bitdoze.com/openclaw-security-guide/) |
+| OpenClaw Security: Gateway Policy Source Review (Personal Agent Bench / Zentor) | [personalagentbench.com](https://personalagentbench.com/openclaw-security/) |
 
 </details>
 
