@@ -293,6 +293,7 @@ This repository follows the **OpenClaw Research** taxonomy: instead of grouping 
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [Shelldex](https://shelldex.com/) ([source](https://github.com/daveonkels/clawdex)) | — | OpenClaw ecosystem directory with dated GitHub snapshots, project comparisons, and public JSON datasets. |
 | [SamurAIGPT/awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw) | 823 | Comprehensive list of OpenClaw resources, tools, skills, tutorials & articles |
 | [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 830+ | 177 production-ready AI agent templates across 24 categories |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | — | Community curated skills collection |
