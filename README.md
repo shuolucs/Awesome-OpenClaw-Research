@@ -151,6 +151,7 @@ This repository follows the **OpenClaw Research** taxonomy: instead of grouping 
 |-------|-------|------|-------|------|
 | **AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.08938-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08938) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
 | **OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild (Survey)** | Preprints.org | 2026.03 | [![Preprints](https://img.shields.io/badge/202603.1060-b31b1b?style=flat-square)](https://www.preprints.org/manuscript/202603.1060) | ![N/A](https://img.shields.io/badge/N/A-grey?style=flat-square) |
+| **Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution (EC2-Bench)** | arXiv | 2026.10 | [![arXiv](https://img.shields.io/badge/2610.17816-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.17816) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/OpenBMB/EC2-Bench) [![Website](https://img.shields.io/badge/Web-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://passionate11.github.io/ec2-bench-project-page/) [![HuggingFace](https://img.shields.io/badge/Dataset-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/chengpingan/EC2-Bench) |
 
 #### Claw as Infrastructure 
 
